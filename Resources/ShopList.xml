@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+    <workshops>
+        <workshop>
+            <name>Drug Store</name>
+            <gold_cost>100</gold_cost>
+			<image>workshop\\drugstore.png</image>
+            <rate_of_gold_generation>10</rate_of_gold_generation>
+        </workshop>
+        <workshop>
+            <name>Government</name>
+            <gold_cost>250</gold_cost>
+			<image>workshop\\government.png</image>
+            <rate_of_gold_generation>20</rate_of_gold_generation>
+        </workshop>
+        <workshop>
+            <name>Museum</name>
+            <gold_cost>500</gold_cost>
+			<image>workshop\\museum.png</image>
+            <rate_of_gold_generation>40</rate_of_gold_generation>
+        </workshop>
+		<workshop>
+            <name>Property</name>
+            <gold_cost>500</gold_cost>
+			<image>workshop\\property.png</image>
+            <rate_of_gold_generation>40</rate_of_gold_generation>
+        </workshop>
+		<workshop>
+            <name>Temple</name>
+            <gold_cost>500</gold_cost>
+			<image>workshop\\Temple.png</image>
+            <rate_of_gold_generation>40</rate_of_gold_generation>
+        </workshop>
+    </workshops>
+    <decorations>
+        <decoration>
+            <name>Bridge</name>
+            <gold_cost>50</gold_cost>
+			<image>decoration\\bridge.png</image>
+            <happiness>10</happiness>
+        </decoration>
+        <decoration>
+            <name>Hanger</name>
+            <gold_cost>100</gold_cost>
+			<image>decoration\\hangar.png</image>
+            <happiness>20</happiness>
+        </decoration>
+    </decorations>
+</shop>
